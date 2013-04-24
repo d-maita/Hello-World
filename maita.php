@@ -1,3 +1,3 @@
 <?php
-print("maita");
+print("m");
 ?>
